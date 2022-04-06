@@ -10,6 +10,7 @@
 2. Diminishing stepsize
 3. Minimization rule (exactline search)
 4. Limited minimization
+5. Successive step size reduction
 
 ## Authors
 
