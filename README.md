@@ -19,5 +19,5 @@ jupyter notebook
 ```
 ## Authors
 
-Hoa Bui
-Honglei Xu
+- Hoa Bui
+- Honglei Xu
