@@ -1,8 +1,6 @@
-# Gradient Descent
+# Newton Method
 
-## Interesting talks: 
-
-1. Yura Malitsky (Linköping University) : Adaptive gradient descent without descent: https://www.youtube.com/watch?v=z1GKMARXuCM
+Before you start, check if the Hessian is invertible
 
 ## Exercises for students: implement different step size selections
 
