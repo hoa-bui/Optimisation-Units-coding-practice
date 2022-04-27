@@ -1,3 +1,5 @@
-# Newton Method
+# One dimensional research method
 
-Before you start, check if the Hessian is invertible
+
+1. Golden section
+2. Fibonacci search
