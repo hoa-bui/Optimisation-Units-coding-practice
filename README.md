@@ -19,5 +19,10 @@ jupyter notebook
 ```
 ## Authors
 
+## Alternatively, try anaconda
+
+https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/
+
+
 - Hoa Bui
 - Honglei Xu
