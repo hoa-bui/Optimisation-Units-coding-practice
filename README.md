@@ -25,11 +25,13 @@ python -m pip install jupyter
 ```bash
 jupyter notebook
 ```
-## Authors
 
-## Alternatively, try anaconda
+## Alternatively, try anaconda, see in here
 
 https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/
+
+
+## Authors
 
 
 - Hoa Bui
